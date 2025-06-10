@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-list-icon: #B3DCD6;
+  --color-check: #159898;
+  --color-icon-text: #BD9192;
+  --color-gray-icon: #F9F9F9;
+  --color-pink-border: #F9E4E3;
+}
+
