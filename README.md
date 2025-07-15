@@ -12,11 +12,11 @@ A simple and stylish Todo List application built with **React**, **TypeScript**,
 
 ## ⚙️ Features
 
-✅ Add new tasks
-✅ Mark tasks as complete
-✅ Edit tasks
-✅ Delete tasks
-✅ Responsive design with TailwindCSS
+✅ Add new tasks  
+✅ Mark tasks as complete  
+✅ Edit tasks  
+✅ Delete tasks  
+✅ Responsive design with TailwindCSS  
 
 ---
 
