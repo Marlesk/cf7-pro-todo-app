@@ -1,6 +1,6 @@
 # 📝 To-Do-List App
 
-A simple and stylish Todo List application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+A simple and stylish To Do List application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
 ---
 
