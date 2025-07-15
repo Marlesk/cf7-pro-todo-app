@@ -6,7 +6,7 @@ A simple and stylish Todo List application built with **React**, **TypeScript**,
 
 ## 🌐 Live Demo
 
-👉 [View it on GitHub Pages](https://marlesk.github.io/cf7-pro-todo-app/)
+🔗 [View the app](https://marlesk.github.io/cf7-pro-todo-app/)
 
 ---
 
@@ -37,3 +37,15 @@ A simple and stylish Todo List application built with **React**, **TypeScript**,
 ```bash
 git clone https://github.com/Marlesk/cf7-pro-todo-app.git
 cd cf7-pro-todo-app
+```
+2. **Install dependencies**:
+
+```bash
+npm install
+```
+
+3. **Start the development server**:
+
+```bash
+npm run dev
+```
